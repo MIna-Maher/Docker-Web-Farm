@@ -8,3 +8,4 @@
                     ##**Configuring host OS as proxy server (Nginx)**##<br/>
 `#mv deafult.conf /etc/nginx/sites-availabe/`<br/>
 `#systemctl restart nginx`<br/>
+##Ending of file 
